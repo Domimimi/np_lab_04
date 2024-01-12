@@ -1,5 +1,4 @@
-# check_syntax już istnieje, więc nazwa to będzie check_syntax_2
-name: check_syntax_2
+name: check_syntax
 
 # wykonujemy jak zrobimuy push na gałąź main
 on:
